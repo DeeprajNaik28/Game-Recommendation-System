@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "GTA V",
+    "genre": "Action",
+    "ram_gb": 8,
+    "gpu": "GTX 660",
+    "cpu": "Intel i5",
+    "storage_gb": 100,
+    "tags": "open-world;crime;multiplayer"
+  },
+  {
+    "id": 2,
+    "name": "Valorant",
+    "genre": "FPS",
+    "ram_gb": 4,
+    "gpu": "Intel HD 4000",
+    "cpu": "Intel i3",
+    "storage_gb": 20,
+    "tags": "competitive;shooter;multiplayer"
+  },
+  {
+    "id": 3,
+    "name": "Elden Ring",
+    "genre": "RPG",
+    "ram_gb": 12,
+    "gpu": "GTX 1060",
+    "cpu": "Intel i5",
+    "storage_gb": 60,
+    "tags": "soulslike;fantasy;open-world"
+  },
+  {
+    "id": 4,
+    "name": "Minecraft",
+    "genre": "Sandbox",
+    "ram_gb": 4,
+    "gpu": "Intel HD",
+    "cpu": "Intel i3",
+    "storage_gb": 2,
+    "tags": "creative;survival;multiplayer"
+  },
+  {
+    "id": 5,
+    "name": "Forza Horizon 5",
+    "genre": "Racing",
+    "ram_gb": 8,
+    "gpu": "GTX 1070",
+    "cpu": "Intel i5",
+    "storage_gb": 110,
+    "tags": "cars;racing;open-world"
+  },
+  {
+    "id": 6,
+    "name": "Cyberpunk 2077",
+    "genre": "RPG",
+    "ram_gb": 16,
+    "gpu": "RTX 2060",
+    "cpu": "Intel i7",
+    "storage_gb": 70,
+    "tags": "futuristic;open-world;story"
+  },
+  {
+    "id": 7,
+    "name": "Apex Legends",
+    "genre": "Battle Royale",
+    "ram_gb": 8,
+    "gpu": "GTX 970",
+    "cpu": "Intel i5",
+    "storage_gb": 75,
+    "tags": "multiplayer;shooter;competitive"
+  },
+  {
+    "id": 8,
+    "name": "CS2",
+    "genre": "FPS",
+    "ram_gb": 4,
+    "gpu": "GTX 1050",
+    "cpu": "Intel i3",
+    "storage_gb": 35,
+    "tags": "competitive;shooter;multiplayer"
+  },
+  {
+    "id": 9,
+    "name": "Red Dead Redemption 2",
+    "genre": "Adventure",
+    "ram_gb": 12,
+    "gpu": "GTX 1060",
+    "cpu": "Intel i7",
+    "storage_gb": 150,
+    "tags": "open-world;western;story"
+  },
+  {
+    "id": 10,
+    "name": "The Witcher 3",
+    "genre": "RPG",
+    "ram_gb": 8,
+    "gpu": "GTX 770",
+    "cpu": "Intel i5",
+    "storage_gb": 50,
+    "tags": "fantasy;story;open-world"
+  },
+  {
+    "id": 11,
+    "name": "Assassin's Creed Valhalla",
+    "genre": "Action",
+    "ram_gb": 8,
+    "gpu": "GTX 960",
+    "cpu": "Intel i5",
+    "storage_gb": 80,
+    "tags": "vikings;open-world;story"
+  },
+  {
+    "id": 12,
+    "name": "Watch Dogs 2",
+    "genre": "Action",
+    "ram_gb": 8,
+    "gpu": "GTX 970",
+    "cpu": "Intel i5",
+    "storage_gb": 50,
+    "tags": "hacking;open-world;crime"
+  },
+  {
+    "id": 13,
+    "name": "FIFA 25",
+    "genre": "Sports",
+    "ram_gb": 8,
+    "gpu": "GTX 1050 Ti",
+    "cpu": "Intel i5",
+    "storage_gb": 100,
+    "tags": "football;multiplayer;sports"
+  },
+  {
+    "id": 14,
+    "name": "EA FC 25",
+    "genre": "Sports",
+    "ram_gb": 8,
+    "gpu": "GTX 1050 Ti",
+    "cpu": "Intel i5",
+    "storage_gb": 100,
+    "tags": "football;career;multiplayer"
+  },
+  {
+    "id": 15,
+    "name": "Call of Duty Warzone",
+    "genre": "FPS",
+    "ram_gb": 12,
+    "gpu": "GTX 1650",
+    "cpu": "Intel i5",
+    "storage_gb": 125,
+    "tags": "battle-royale;shooter;online"
+  },
+  {
+    "id": 16,
+    "name": "PUBG",
+    "genre": "Battle Royale",
+    "ram_gb": 8,
+    "gpu": "GTX 960",
+    "cpu": "Intel i5",
+    "storage_gb": 40,
+    "tags": "survival;shooter;multiplayer"
+  },
+  {
+    "id": 17,
+    "name": "Fortnite",
+    "genre": "Battle Royale",
+    "ram_gb": 8,
+    "gpu": "GTX 960",
+    "cpu": "Intel i5",
+    "storage_gb": 35,
+    "tags": "cartoon;building;online"
+  },
+  {
+    "id": 18,
+    "name": "Hogwarts Legacy",
+    "genre": "RPG",
+    "ram_gb": 16,
+    "gpu": "GTX 1070",
+    "cpu": "Intel i7",
+    "storage_gb": 85,
+    "tags": "magic;fantasy;open-world"
+  },
+  {
+    "id": 19,
+    "name": "God of War",
+    "genre": "Adventure",
+    "ram_gb": 8,
+    "gpu": "GTX 960",
+    "cpu": "Intel i5",
+    "storage_gb": 70,
+    "tags": "story;mythology;action"
+  },
+  {
+    "id": 20,
+    "name": "Spider-Man Remastered",
+    "genre": "Action",
+    "ram_gb": 8,
+    "gpu": "GTX 1060",
+    "cpu": "Intel i5",
+    "storage_gb": 75,
+    "tags": "superhero;open-world;story"
+  },
+  {
+    "id": 21,
+    "name": "Resident Evil 4",
+    "genre": "Horror",
+    "ram_gb": 8,
+    "gpu": "GTX 1050 Ti",
+    "cpu": "Intel i5",
+    "storage_gb": 60,
+    "tags": "zombies;survival;story"
+  },
+  {
+    "id": 22,
+    "name": "Far Cry 6",
+    "genre": "Action",
+    "ram_gb": 8,
+    "gpu": "GTX 1080",
+    "cpu": "Intel i7",
+    "storage_gb": 60,
+    "tags": "open-world;shooter;story"
+  },
+  {
+    "id": 23,
+    "name": "Need for Speed Heat",
+    "genre": "Racing",
+    "ram_gb": 8,
+    "gpu": "GTX 1060",
+    "cpu": "Intel i5",
+    "storage_gb": 50,
+    "tags": "cars;street-racing;multiplayer"
+  },
+  {
+    "id": 24,
+    "name": "Dying Light 2",
+    "genre": "Survival",
+    "ram_gb": 16,
+    "gpu": "RTX 2060",
+    "cpu": "Intel i7",
+    "storage_gb": 60,
+    "tags": "zombies;parkour;open-world"
+  },
+  {
+    "id": 25,
+    "name": "Palworld",
+    "genre": "Survival",
+    "ram_gb": 16,
+    "gpu": "RTX 2070",
+    "cpu": "Intel i7",
+    "storage_gb": 40,
+    "tags": "creatures;survival;multiplayer"
+  },
+  {
+    "id": 26,
+    "name": "Terraria",
+    "genre": "Sandbox",
+    "ram_gb": 4,
+    "gpu": "Intel HD",
+    "cpu": "Intel i3",
+    "storage_gb": 1,
+    "tags": "2d;crafting;survival"
+  },
+  {
+    "id": 27,
+    "name": "Rocket League",
+    "genre": "Sports",
+    "ram_gb": 4,
+    "gpu": "GTX 660",
+    "cpu": "Intel i3",
+    "storage_gb": 20,
+    "tags": "cars;football;multiplayer"
+  },
+  {
+    "id": 28,
+    "name": "Sea of Thieves",
+    "genre": "Adventure",
+    "ram_gb": 8,
+    "gpu": "GTX 650",
+    "cpu": "Intel i5",
+    "storage_gb": 50,
+    "tags": "pirates;co-op;open-world"
+  },
+  {
+    "id": 29,
+    "name": "No Man's Sky",
+    "genre": "Adventure",
+    "ram_gb": 8,
+    "gpu": "GTX 1060",
+    "cpu": "Intel i5",
+    "storage_gb": 15,
+    "tags": "space;exploration;survival"
+  },
+  {
+    "id": 30,
+    "name": "Rainbow Six Siege",
+    "genre": "FPS",
+    "ram_gb": 8,
+    "gpu": "GTX 1050 Ti",
+    "cpu": "Intel i5",
+    "storage_gb": 61,
+    "tags": "tactical;shooter;competitive"
+  }
+]
